@@ -1,5 +1,9 @@
 .header {
-  border-style: solid;
   padding: 20px;
   text-align: center;
+}
+
+.info {
+  max-width: 750px;
+  margin: auto;
 }
